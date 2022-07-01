@@ -1,7 +1,7 @@
 # MyShellProject
 
-- **Introduction** 
-<br>
+- **Introduction**
+
 SP-Project 1   -   'My Shell' Program
 
 - **Summary**
