@@ -26,8 +26,9 @@ Unzip the myshell.tar file with 'tar -xvzf' command. After the unzip completes(y
 
 - **Configuration**
 
--- sp1 folder with myshell.c, myshell.h, Makefile. 
--- Document.pdf
+~> sp1 folder with myshell.c, myshell.h, Makefile. 
+
+~> Document.pdf
 
 <br>
 
